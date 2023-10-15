@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Route_App</string>
+    <string name="welcome">مرحبا بك</string>
+    <string name="asem_hisham">عاصم هشام</string>
+    <string name="search_for_whatever_you_want">ابحث عن ما يخطر ببالك</string>
+</resources>
